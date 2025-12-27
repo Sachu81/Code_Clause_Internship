@@ -36,18 +36,10 @@ Matplotlib
 
 Seaborn
 
-**📂 Project Structure**
-Iris-Flower-Data-Analysis/
-│
-├── iris.csv
-├── iris_analysis.py
-├── iris_analysis.ipynb
-├── README.md
 
 
-👨‍💻 Author
 
+**👨‍💻 Author**
 Your Name: Sachin Chavan
 Python| Data Analyst 
-│
-├── iris.csv
+
