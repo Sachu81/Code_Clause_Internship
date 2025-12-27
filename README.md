@@ -1,15 +1,16 @@
 #  Iris Flower Data Analysis (Python & Pandas)
 
 
-🌸 Iris Flower Data Analysis (Python & Pandas)
-📌 Project Overview
+##🌸 Iris Flower Data Analysis (Python & Pandas)
+
+📌 **Project Overview**
 
 The Iris Flower Data Analysis Project uses Python and Pandas to explore and analyze the famous Iris dataset.
 The objective of this project is to understand the relationship between different flower measurements and classify iris species using data analysis techniques.
 
 This project is widely used for learning data analysis, visualization, and basic machine learning concepts.
 
-🎯 Objectives
+**🎯Objectives**
 
 Load and explore the Iris dataset
 
@@ -21,7 +22,7 @@ Visualize data patterns
 
 Gain insights into different Iris species
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 Programming Language: Python
 
@@ -35,7 +36,7 @@ Matplotlib
 
 Seaborn
 
-📂 Project Structure
+**📂 Project Structure**
 Iris-Flower-Data-Analysis/
 │
 ├── iris.csv
